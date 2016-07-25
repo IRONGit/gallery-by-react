@@ -1,0 +1,12 @@
+{
+  "generator-react-webpack": {
+    "appName": "galleryByReact",
+    "style": "sass",
+    "postcss": false,
+    "generatedWithVersion": 3,
+    "app-name": "galleryByReact",
+    "architecture": false,
+    "styles-language": "sass",
+    "component-suffix": "js"
+  }
+}
